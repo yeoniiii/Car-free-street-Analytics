@@ -20,7 +20,17 @@
 </div>
 
 
-&nbsp;  
+&nbsp;
+&nbsp; 
+&nbsp; 
+<div align='left'>
+  
+  ## 분석 주제
 
 ![스크린샷 2024-06-02 오후 5 27 17](https://github.com/yeoniiii/Car-free-street-Analytics/assets/76769871/45348766-492d-436c-a56a-e1ca26499a64)
 
+## 분석 순서도
+![스크린샷 2024-06-02 오후 5 31 56](https://github.com/yeoniiii/Car-free-street-Analytics/assets/76769871/cecdd835-002e-45d5-9306-4ab2ca9ea917)
+
+
+</div>
