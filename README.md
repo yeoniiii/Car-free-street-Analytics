@@ -31,6 +31,7 @@
 
 ## 분석 순서도
 ![스크린샷 2024-06-02 오후 5 31 56](https://github.com/yeoniiii/Car-free-street-Analytics/assets/76769871/cecdd835-002e-45d5-9306-4ab2ca9ea917)
+![스크린샷 2024-06-02 오후 8 16 27](https://github.com/yeoniiii/Car-free-street-Analytics/assets/76769871/0b0a4be8-7e9b-4ddc-97f5-06bcb570b8c4)
 
 
 </div>
